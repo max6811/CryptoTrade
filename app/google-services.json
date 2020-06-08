@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37011332813",
+    "firebase_url": "https://crypto-trade-4def3.firebaseio.com",
+    "project_id": "crypto-trade-4def3",
+    "storage_bucket": "crypto-trade-4def3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37011332813:android:ceaaf5c9066241bdae5384",
+        "android_client_info": {
+          "package_name": "com.maxcmartinez.cryptotrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37011332813-6jhigjof0864lmui56bp7p2ghqntdt0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxcmartinez.cryptotrade",
+            "certificate_hash": "0ed0f358ef2494e2b7a5a52a0b72fe0521be1087"
+          }
+        },
+        {
+          "client_id": "37011332813-213po6vc3japvfq8dc3g5ag68u7i6nun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwZVmac2UUgz7j6yuUg-DP1-V4pvFGlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37011332813-213po6vc3japvfq8dc3g5ag68u7i6nun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
